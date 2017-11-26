@@ -15,15 +15,15 @@ background-size: cover;
 height: 300px;
 }
 
-ul{
+.l1{
   list-style-type: none;
   text-align: center;
   font-size: 18px;
-  color: green;
+  color: white;
 }
-
+.color1{
+  color:white;
 }
-
 body {
     border: 2px solid red;
     padding: 10px;
@@ -48,4 +48,32 @@ img{
 
 p{
   text-align: center;
+}
+.designed{
+  background-image: url(/Users/zoomdesigns/broadway/image/the-flatiron-building.png);
+  background-size: cover;
+  height: 36px;
+  color: white;
+}
+
+.l2{
+  list-style: none;
+  text-align: center;
+}
+a{
+  color:white;
+}
+
+nav{
+  background-color: dimgray
+}
+nav ul {
+  list-style: none;
+}
+
+nav li{
+  display: inline;
+  font-size: 11px;
+  color:white;
+
 }
